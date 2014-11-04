@@ -1,4 +1,4 @@
-<!--Error page, TESTING GIT HUB --!>
+<!--Error page --!>
 <?php
 	require_once '../global.php';
 
